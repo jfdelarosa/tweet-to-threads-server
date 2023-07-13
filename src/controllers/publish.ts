@@ -20,6 +20,7 @@ export default async (c) => {
     return c.json(
       {
         error: error.message,
+        body,
       },
       500
     );
