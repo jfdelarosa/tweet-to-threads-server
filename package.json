@@ -4,11 +4,10 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.0.2",
-    "dotenv": "^16.3.1",
-    "hono": "^3.3.0",
-    "threads-api": "^1.4.0"
+    "hono": "^3.3.1",
+    "threads-api": "^1.4.5"
   },
   "devDependencies": {
-    "tsx": "^3.12.2"
+    "tsx": "^3.12.7"
   }
 }
